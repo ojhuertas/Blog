@@ -1,0 +1,21 @@
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+div.row{
+	background-color: #B7DEF1;
+}
+
+div.callout{
+	background-color: #B7DEF1;
+}
+
+
